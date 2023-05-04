@@ -1,12 +1,10 @@
 # name
 
-
-
 Try it on [CodeWars]()
 
 ## Testing
 
-To test your function run:
+To test your function, navigate to the algorithms directory and run:
 
 ```
 npm install
